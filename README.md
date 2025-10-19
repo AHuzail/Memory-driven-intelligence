@@ -22,4 +22,4 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/AHuzail/Memory-driven-intelligence)
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2025)
-![Made with love](https://img.shields.io/badge/Made%20with-Love-ff69b4)
+![Made with love](https://img.shields.io/badge/Made%20with-love-ff69b4)
